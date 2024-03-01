@@ -3,7 +3,7 @@ Interactive Excel dashboard created from a dataset.
 
 ## Description
 
-Project to showcase and remember some Excel functions, the dataset is "coffeeOrdersData.xlsx" and includes 3 differente worksheets: orders, customers and products.
+Project to showcase and remember some Excel functions (VLOOKUP, pivot tables, pivot charts, ...), the dataset is "coffeeOrdersData.xlsx" and includes 3 differente worksheets: orders, customers and products.
 
 Orders worksheet includes: Order ID, Order Date, Customer ID, Quantity.
 Customers worksheet includes: Customer ID, Customer Name, Email, Phone Number, Address Line 1, City, Country, Postcode, Loyalty Card.
