@@ -1,6 +1,11 @@
 # Excel-data
 Interactive Excel dashboard created from a dataset.
 
+<p align="center">
+  <img src="https://i.imgur.com/Ra9k6ld.png" alt="Title" width="880px" height="580px">
+</p>
+
+
 ## Description
 
 Project to showcase and remember some Excel functions (VLOOKUP, pivot tables, pivot charts, ...), the dataset is "coffeeOrdersData.xlsx" and includes 3 differente worksheets: orders, customers and products.
