@@ -2,7 +2,7 @@
 Interactive Excel dashboard created from a dataset.
 
 <p align="center">
-  <img src="https://i.imgur.com/Ra9k6ld.png" alt="Title" width="880px" height="580px">
+  <img src="https://i.imgur.com/Ra9k6ld.png" alt="Title" width="880px" height="550px">
 </p>
 
 
